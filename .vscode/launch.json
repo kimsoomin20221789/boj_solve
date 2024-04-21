@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kimsoomin/Desktop/boj_solve/DynamicProgramming",
+      "program": "/Users/kimsoomin/Desktop/boj_solve/DynamicProgramming/build/Debug/outDebug"
+    }
+  ]
+}
