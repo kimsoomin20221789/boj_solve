@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kimsoomin/Desktop/boj_solve/DynamicProgramming/output/11727'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003DD4, symSize: 0x17C }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _D, symObjAddr: 0x11F88, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x6810, offset: 0x6810, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003DD4, symSize: 0x17C }
+  - { offsetInCU: 0x68FC, offset: 0x68FC, size: 0x8, addend: 0x0, symName: __ZNSt3__19basic_iosIcNS_11char_traitsIcEEE3tieB7v160006EPNS_13basic_ostreamIcS2_EE, symObjAddr: 0x17C, symBinAddr: 0x100003F50, symSize: 0x2C }
+...
